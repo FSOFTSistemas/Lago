@@ -1,0 +1,37 @@
+﻿Requisitos: usuarios – 3 tipos: master (financeiro e geral), gerente (financeiro, aluguel), funcionario
+ (nome, cpf, data de contratação,salario e endereço)
+
+ -valor
+
+diarío: day use, combo, passaporte
+
+descrição dos diarios: oq cada coisa concede
+
+status: periodo de festas,feriados,eventos fechados.
+
+Financeiro: caixa – entidade, descrição, contas a pagar e a receber, fluxo de caixa (relatório)
+
+- contas a receber:
+
+*contrato: agendamento evento e afins, entrada, impossivel registros com mesma data e horario,
+ valor, espaço(s) a definir, forma de pagamentos: dinherio – diretamente ao caixa, cartão, 
+
+entidade espaço: crediario = parcelas,
+
+entidade venda: valores e formas de pagamentos, registros em contas a pagar
+
+tela de cartoes: previsoes de recebimento, tipos de cartoes
+
+entidade cliente: nome, endereço, telefone 2x, cpf, idade(data de nascimento), 
+
+hotel: troca de quarto – camas e afins, hospede (tipos de cliente)
+
+entidade quarto: tipos, camas – quantidade 
+
+entidade reserva: check in e out, verificar reservas (status)
+
+entidade produtos: alimentos
+
+entidade estoque: tabela caixa, movimentação (cliente – hotel), 
+
+
