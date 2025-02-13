@@ -103,7 +103,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wElRRixkhDuZ7S3lFu41-22" value="Gerente Financeiro" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="wElRRixkhDuZ7S3lFu41-22" value="Gerente Hotel" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="681" y="290" width="167" height="54" as="geometry" />
         </mxCell>
         <mxCell id="wElRRixkhDuZ7S3lFu41-23" value="financeiro, aluguel" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.78;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="wElRRixkhDuZ7S3lFu41-22">
