@@ -1,0 +1,109 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:135.0) Gecko/20100101 Firefox/135.0" version="26.0.13">
+  <diagram name="Página-1" id="loMj4vzFIcWx5IlvLi8O">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="Requisitos" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="8" y="268" width="105" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="Usuarios" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="163" y="268" width="93" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Master" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="374" y="60" width="79" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="Gerente" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="370" y="268" width="88" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="Funcionario" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="357" y="482" width="114" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="Master Financeiro" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="690" y="8" width="158" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="Master Geral" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="708" y="112" width="123" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="Gerente Financeiro" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="686" y="216" width="167" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="Gerente Aluguel" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="697" y="320" width="146" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="Nome do Funcionario" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="678" y="424" width="183" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="12" value="Outros campos do Funcionario" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="654" y="528" width="230" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="2" target="3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="14" value="3 tipos" style="curved=1;startArrow=none;endArrow=block;exitX=0.63;exitY=0;entryX=0;entryY=0.5;" edge="1" parent="1" source="3" target="4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="306" y="87" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="15" value="3 tipos" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="3" target="5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="16" value="3 tipos" style="curved=1;startArrow=none;endArrow=block;exitX=0.63;exitY=1;entryX=0;entryY=0.5;" edge="1" parent="1" source="3" target="6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="306" y="509" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="17" value="financeiro e geral" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.24;entryX=0;entryY=0.5;" edge="1" parent="1" source="4" target="7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="563" y="35" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18" value="financeiro e geral" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.76;entryX=0;entryY=0.5;" edge="1" parent="1" source="4" target="8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="563" y="139" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="19" value="financeiro, aluguel" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.22;entryX=0;entryY=0.5;" edge="1" parent="1" source="5" target="9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="563" y="243" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="20" value="financeiro, aluguel" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.78;entryX=0;entryY=0.5;" edge="1" parent="1" source="5" target="10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="563" y="347" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="21" value="nome" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.09;entryX=0;entryY=0.5;" edge="1" parent="1" source="6" target="11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="563" y="451" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="22" value="outros campos" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.91;entryX=0;entryY=0.5;" edge="1" parent="1" source="6" target="12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="563" y="567" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
