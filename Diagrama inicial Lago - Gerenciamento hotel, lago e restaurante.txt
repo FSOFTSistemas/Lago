@@ -34,4 +34,5 @@ entidade produtos: alimentos
 
 entidade estoque: tabela caixa, movimentação (cliente – hotel), 
 
+lago: aluguel,diaria,espaços,funcionarios,vendas
 
